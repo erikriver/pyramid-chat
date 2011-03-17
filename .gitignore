@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+bin/
+parts/
+src/
+

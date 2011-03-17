@@ -1,0 +1,10 @@
+$ git clone git://github.com/erikriver/pyramid-chat.git
+$ cd pyramid-chat
+$ python bootstrap.py
+$ bin/buildout
+$ bin/supervisord
+
+for down the site:
+$ bin/supervisorctl shutdown
+
+
